@@ -23,3 +23,8 @@
 	* <auth_content_here>
 	* <apikey_here>
 	* <workspace_here>
+	
+-----------------------------------------------------------------------------------------------
+
+* Features:
+	* Shorten Url - bitly or rebrandly.
